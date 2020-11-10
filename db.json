@@ -1,24 +1,24 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Dell Inspiron 15 3000",
-      "description":"Com o Inspiron 15 3000, você terá uma nova perspectiva sobre como um notebook poderá te ajudar, seja no trabalho, estudo ou entretenimento.",
-      "image":"https://i.zst.com.br/images/conheca-a-linha-de-notebooks-dell-inspiron-photo42740715-44-2d-33.jpg",
-      "category":"electronics"
-    },
-    {
-      "id": 2,
-      "name": "Samsung S10",
-      "description":"Smartphone Samsung Galaxy S10, 6,1, 128GB, Octa-Core, Câmera Tripla 12MP + 16MP + 12MP, PretoO Galaxy S10 traz design reprojetado com Tela Infinita de 6,1 polegadas. Com o objetivo de oferecer uma experiência sem distrações e sem interrupções.",
-      "image":"https://www.oficinadanet.com.br/imagens/post/25785/galaxy-s10-5g.jpg",
-      "category":"electronics"
-    }
-  ],
-  "categories":[
-    "electronics",
-    "jewelery",
-    "men clothing",
-    "women clothing"
-  ]
+   "products":[
+      {
+         "id":1,
+         "name":"Dell Inspiron 15 3000",
+         "description":"Com o Inspiron 15 3000, você terá uma nova perspectiva sobre como um notebook poderá te ajudar, seja no trabalho, estudo ou entretenimento.",
+         "image":"https://i.zst.com.br/images/conheca-a-linha-de-notebooks-dell-inspiron-photo42740715-44-2d-33.jpg",
+         "category":"electronics"
+      },
+      {
+         "id":2,
+         "name":"Samsung S10",
+         "description":"Smartphone Samsung Galaxy S10, 6,1, 128GB, Octa-Core, Câmera Tripla 12MP + 16MP + 12MP, PretoO Galaxy S10 traz design reprojetado com Tela Infinita de 6,1 polegadas. Com o objetivo de oferecer uma experiência sem distrações e sem interrupções.",
+         "image":"https://www.oficinadanet.com.br/imagens/post/25785/galaxy-s10-5g.jpg",
+         "category":"electronics"
+      }
+   ],
+   "categories":[
+      "electronics",
+      "jewelery",
+      "men clothing",
+      "women clothing"
+   ]
 }
