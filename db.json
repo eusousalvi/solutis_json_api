@@ -23,6 +23,14 @@
          "image":"https://joiasgold.vteximg.com.br/arquivos/ids/209824-1000-1000/Anel-de-Ouro-18k-Solitario-com-Zirconia-de-60mm-an19266-Joias-gold.jpg",
          "price":299.99,
          "category":"jewelery"
+      },
+      {
+         "id":4,
+         "name":"TV LED 39'' Philco PTV39G50D Resolução HD e Recepção Digital - Preto",
+         "description":"Televisor com tela de 39 polegadas em resolução HD. Função DNR, que reduz os ruídos de imagem e equalizador de som que permite melhorar a qualidade de áudio do seu televisor através de configurações pré-ajustadas ou manualmente.",
+         "image":"https://images-americanas.b2w.io/produtos/01/00/img/1695817/6/1695817681_1GG.jpg",
+         "price":1179.99,
+         "category":"electronics"
       }
    ],
    "categories":[
