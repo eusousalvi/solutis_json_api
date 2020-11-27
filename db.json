@@ -135,6 +135,22 @@
          "image":"https://t-static.dafiti.com.br/LaYgLaoRbM5wCkXu-_i0F7IiLEs=/fit-in/430x623/static.dafiti.com.br/p/pink-modas-shorts-jeans-pink-modas-destroyed-s10-azul-7686-9978136-1-zoom.jpg",
          "price":59.90,
          "category":"women_clothing"
+      },
+      {
+         "id":18,
+         "name":"Tênis Nike Revolution 5 - Masculino",
+         "description":"Versátil e ultraconfortável para a academia, treinos leves de corrida, caminhada ou mesmo ocasiões casuais, o Tênis Nike Revolution 5 é perfeito para cumprir a rotina diária. Seu cabedal (parte superior do tênis) apresenta a leveza e respirabilidade do mesh (malha em tramas abertas) para manter o frescor com mais flexibilidade nos movimentos. Em toda a extensão da entressola do Nike Revolution 5, a maciez e suavidade da espuma combina leve e duradouro amortecimento. Já o solado do Nike Revolution Masculino garante excelente tração e uma distribuição natural das passadas. Não perca a oportunidade e aproveite o preço para comprar!",
+         "image":"https://imgcentauro-a.akamaihd.net/900x900/94313731/tenis-nike-revolution-5-masculino-img.jpg",
+         "price":199.99,
+         "category":"shoes"
+      },
+      {
+         "id":19,
+         "name":"Tênis New Balance ML501 - Masculino",
+         "description":"Um clássico repaginado que moderniza qualquer look casual com um toque esportivo e jovialidade, o Tênis New Balance é a opção certa. Seu cabedal (parte superior do tênis) possui a leveza e respirabilidade do mesh (malha em tramas abertas) e entressola com EVA lixado em toda a extensão para leve e duradouro amortecimento. Na parte interna do New Balance ML501, detalhes acolchoados oferecem maciez e proteção contra o atrito de contato com solado emborrachado. Aproveite o preço e compre já!",
+         "image":"https://imgcentauro-a.akamaihd.net/900x900/92344102/tenis-new-balance-ml501-masculino-img.jpg",
+         "price":159.99,
+         "category":"shoes"
       }
    ],
    "categories":[
