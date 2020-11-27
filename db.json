@@ -127,7 +127,15 @@
          "image":"https://t-static.dafiti.com.br/7QP7kkXOOXjPplxyM-nMNHtnrmo=/fit-in/430x623/static.dafiti.com.br/p/miss-joy-parka-alfaiataria-miss-joy-manga-longa-terracota-1536-9702636-1-zoom.jpg",
          "price":139.90,
          "category":"women_clothing"
-      }
+      },
+      {
+         "id":17,
+         "name":"SHORTS JEANS PINK MODAS DESTROYED S10 AZUL",
+         "description":"Os shorts jeans da Pink Modas seguem a tendências da moda e todas as mulheres devem ter um no guarda-roupa. Por ser uma peça com cós alto, ela valoriza o corpo feminino ao disfarçar a barriga, marcar a cintura e alongar a silhueta. Nossas peças exclusivas, são especialmente desenvolvidas, com lavagens modernas e modelagem diferenciada que se ajusta ao corpo de maneira confortável.",
+         "image":"https://t-static.dafiti.com.br/LaYgLaoRbM5wCkXu-_i0F7IiLEs=/fit-in/430x623/static.dafiti.com.br/p/pink-modas-shorts-jeans-pink-modas-destroyed-s10-azul-7686-9978136-1-zoom.jpg",
+         "price":59.90,
+         "category":"women_clothing"
+      
    ],
    "categories":[
       "electronics",
