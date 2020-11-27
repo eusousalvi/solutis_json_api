@@ -79,13 +79,53 @@
          "image":"https://images.vivara.com.br/Stores/Fotos/EL00003333-1.jpg",
          "price":105.00,
          "category":"jewelery"
+      },
+      {
+         "id":11,
+         "name":"CAMISETA HANG LOOSE POSTER VERDE",
+         "description":"Medidas da peça: Ombro: 17cm/ Ombro a ombro: 54cm/ Manga: 22cm/ Tórax: 118cm/ Comprimento: 74cm.",
+         "image":"https://static.dafiti.com.br/p/Hang-Loose-Camiseta-Hang-Loose-Poster-Verde-7788-5241103-2-zoom.jpg",
+         "price":44.99,
+         "category":"men_clothing"
+      },
+      {
+         "id":12,
+         "name":"CAMISETA HANG LOOSE NATIVE PRETA",
+         "description":"Medidas da peça: Ombro: 16cm/ Ombro a Ombro: 48cm/ Manga: 23cm/ Tórax: 116cm /Comprimento: 80cm.",
+         "image":"https://t-static.dafiti.com.br/F6IEHeC_91swD_AKItJPeXNDJOg=/fit-in/430x623/static.dafiti.com.br/p/hang-loose-camiseta-hang-loose-native-preta-7648-5240314-1-zoom.jpg",
+         "price":44.99,
+         "category":"men_clothing"
+      },
+      {
+         "id":13,
+         "name":"MOLETOM FLANELADO CANGURU PRETO NARUTO AKATSUKI",
+         "description":"Nosso moletom é de excelente qualidade, com capuz, punho, e bolso canguru. São excelentes para temperaturas mais frias, já que quebram o vento, e te deixam protegido e confortável. Se encaixa perfeitamente no corpo contendo um design moderno.",
+         "image":"https://t-static.dafiti.com.br/CRNdpWKllhpZwoHlW_-ijAbo6nY=/fit-in/430x623/static.dafiti.com.br/p/lucas-lunny-moletom-flanelado-canguru-preto-naruto-akatsuki-9510-5159946-1-zoom.jpg",
+         "price":99,
+         "category":"men_clothing"
+      },
+      {
+         "id":14,
+         "name":"CAMISETA STREETWEAR LOTIES CARPA PRETO",
+         "description":"Camiseta Loties de manga curta, confeccionadas com fio 30.1 penteado e ribana canelada e reforco na gola. Tecido com a tecnologia ULTRA COTTON, que deslumbra um toque macio,  acabamento perfeito e muito conforto. Confira as medidas e descubra qual o tamanho ideal. O encolhimento varia entre 1 a 3 por cento.",
+         "image":"https://t-static.dafiti.com.br/LugEW6y8W_sxPXrHHMJNZ302mj8=/fit-in/430x623/static.dafiti.com.br/p/loties-camiseta-streetwear-loties-carpa-preto-3761-3071995-1-zoom.jpg",
+         "price":44.90,
+         "category":"women_clothing"
+      },
+      {
+         "id":15,
+         "name":"BLUSA FIVEBLU SNOOPY JOE COOL BRANCA",
+         "description":"Medidas da peça no tamanho GG: Ombro: 7cm/ Ombro a Ombro: 40cm/ Manga: 25cm/ Busto: 108cm /Comprimento: 68cm.",
+         "image":"https://t-static.dafiti.com.br/VYy7tWAoHERFCmxWAcu5yEU-foQ=/fit-in/430x623/static.dafiti.com.br/p/snoopy-blusa-fiveblu-snoopy-joe-cool-branca-1039-1054755-1-zoom.jpg",
+         "price":38.99,
+         "category":"women_clothing"
       }
    ],
    "categories":[
       "electronics",
       "jewelery",
-      "men clothing",
-      "women clothing",
+      "men_clothing",
+      "women_clothing",
       "smartphones"
    ]
 }
