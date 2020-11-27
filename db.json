@@ -14,7 +14,7 @@
          "description":"Smartphone Samsung Galaxy S10, 6,1, 128GB, Octa-Core, Câmera Tripla 12MP + 16MP + 12MP, PretoO Galaxy S10 traz design reprojetado com Tela Infinita de 6,1 polegadas. Com o objetivo de oferecer uma experiência sem distrações e sem interrupções.",
          "image":"https://www.oficinadanet.com.br/imagens/post/25785/galaxy-s10-5g.jpg",
          "price":4999.99,
-         "category":"electronics"
+         "category":"smartphones"
       },
       {
          "id":3,
@@ -31,12 +31,61 @@
          "image":"https://images-americanas.b2w.io/produtos/01/00/img/1695817/6/1695817681_1GG.jpg",
          "price":1179.99,
          "category":"electronics"
+      },
+      {
+         "id":5,
+         "name":"Smart TV LED 32'' Philco PTV32E20AGBL HD Android 2 USB 2 HDMI Com Aplicativos e Audio Dolby",
+         "description":"Televisor com tela de 32 polegadas em resolução HD. A TV também possui uma CPU Quad Core e uma GPU Triple Core a Fast Smart TV Android TV responde muito mais rápido aos comandos e oferece muito mais qualidade de imagem e cores.",
+         "image":"https://images-americanas.b2w.io/produtos/01/00/img/1695817/7/1695817711_1GG.jpg",
+         "price":1399.99,
+         "category":"electronics"
+      },
+      {
+         "id":6,
+         "name":"Smart TV LED 40'' Samsung Tizen FHD 40T5300 2020 - WIFI, HDR para Brilho e Contraste, Plataforma Tizen",
+         "description":"Samsung Smart TV Tizen FHD 2020 T5300 40'', HDR Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor.Verifique com os fabricantes do produto e de seus componentes eventuais.",
+         "image":"https://images-americanas.b2w.io/produtos/01/00/img/1704351/0/1704351010_1GG.jpg",
+         "price":1599.99,
+         "category":"electronics"
+      },
+      {
+         "id":7,
+         "name":"Smartphone Motorola One Fusion Dual Chip Android Tela 6.5'' 128GB 4G Wi-Fi Câmera 48MP+8MP - Azul Safira",
+         "description":"MOTOROLA ONE FUSION 128, TERMINAL PORTÁTIL DE TELEFONIA CELULAR, MODELO XT2073-2 - AZUL SAFIRA Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor.Verifique com os fabrica.",
+         "image":"https://images-americanas.b2w.io/produtos/01/00/img/1850123/2/1850123218_1GG.jpg",
+         "price":1499.99,
+         "category":"smartphones"
+      },
+      {
+         "id":8,
+         "name":"Smartphone Motorola Moto G8 Power Lite Dual Chip Desbloqueado Android Tela 6.5'' 64GB 4G Câmera 16MP+ 2MP+ 2MP Helio P35 - Azul Navy",
+         "description":"MOTO G8 POWER LITE 64, TERMINAL PORTÁTIL DE TELEFONIA CELULAR, MODELO XT2055-2, AZUL NAVY Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor.Verifique com os fabricantes.",
+         "image":"https://images-americanas.b2w.io/produtos/01/00/img/1654493/2/1654493238_1SZ.jpg",
+         "price":1199.99,
+         "category":"smartphones"
+      },
+      {
+         "id":9,
+         "name":"Anel Prata Pérola e Topázio",
+         "description":"Uma joia é um símbolo único que tem o poder de transcender lugares, culturas ou tornar alguém inesquecível! É capaz de traduzir, de forma simples, sentimentos e momentos que talvez precisasse de um livro inteiro para explicar. Porque, acima de tudo, uma joia é a história que ela conta. Cada coleção possui sua própria personalidade, sendo concebida com o cuidado e design inovador que leva nossa marca.",
+         "image":"https://images.vivara.com.br/Stores/Fotos/AN00052312-1.jpg",
+         "price":375.00,
+         "category":"jewelery"
+      },
+      {
+         "id":10,
+         "name":"Pingente Life Love",
+         "description":"O pingente Love, de Life Amor, é perfeito para ser colocado em suas pulseiras Life preferidas e contar a sua história de um jeito muito especial. Confeccionado em prata 925, este é um dos berloques Vivara que possuem letras delicadamente moldadas. Além disso, o design elegante do pingente Love confere um toque de sofisticação às suas produções.",
+         "image":"https://images.vivara.com.br/Stores/Fotos/EL00003333-1.jpg",
+         "price":105.00,
+         "category":"jewelery"
       }
    ],
    "categories":[
       "electronics",
       "jewelery",
       "men clothing",
-      "women clothing"
+      "women clothing",
+      "smartphones"
    ]
 }
